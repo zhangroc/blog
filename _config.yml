@@ -4,11 +4,10 @@
 
 # Site
 title: Dapeng's Blogs
-subtitle: 大鹏的个人博客
-description: haha  haha hehe hehe
+subtitle: Learning and sharing together
+description:  cut edge tech, Thkings, ideas
 author: 张大鹏
 language: zh_CN
-timezone: UTC+08:00
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -72,16 +71,15 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-## theme: landscape
-theme: anatole
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
 
-archive_generator:
-  per_page: 0
-  yearly: false
-  monthly: false
-  daily: false
+#archive_generator:
+#  per_page: 0
+#  yearly: false
+#  monthly: false
+#  daily: false
